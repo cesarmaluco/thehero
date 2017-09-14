@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import {Hero} from './app.component';
+import {Hero} from './hero.component';
 
 const HEROES: Hero[] = [
     { id: 11, name: 'Mr. Nice' },
